@@ -1,0 +1,2 @@
+# PixivBookmarkExporter
+从pixiv个人收藏导出画作信息
